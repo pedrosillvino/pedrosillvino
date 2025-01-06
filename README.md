@@ -1,7 +1,6 @@
 ## Olá 👋! Eu sou o Pedro Silvino
 
-- 🌱 Atualmente estudando no 3º período de Ciência da Computação
-- 😄 Pronouns: ele/dele
+- 🌱 Atualmente estudando no 2º período de Ciência da Computação
 - ⚡ Fun fact: Gunpla builder
 
 ##
